@@ -2,7 +2,7 @@
 
 An open-source and free favicon provider.
 
-For example, you can use the following URL to get the favicon of GitHub: https://your-favicons-service/?domain=github.com
+For example, you can use the following URL to get the favicon of GitHub: https://favicons.yuricunha.com/?domain=github.com
 
 And you can deploy your own instance of this project to Vercel with the following button:
 
